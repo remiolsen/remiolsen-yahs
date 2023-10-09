@@ -5,5 +5,5 @@ If you are interested in a Dockerised version see [bioconda](http://bioconda.git
 Otherwise:
 
 ```
-docker pull remiolsen/yahs:20230113
+docker pull remiolsen/yahs:20231009
 ```
